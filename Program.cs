@@ -6,7 +6,7 @@ namespace GuessingGame
     {
         static void Main(string[] args)
         {
-            //Startup
+            //Startup application
             GetAppDetails();
             GetAppGreeting();
 
